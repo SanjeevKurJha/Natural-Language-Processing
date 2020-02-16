@@ -1,0 +1,16 @@
+Machine Learning is a branch of computer science and it gives the computers capability to learn without being explicitly programmed using algorithm. 
+Using machine learning computer can automatically take feature decision based on learning of past experience and give prediction about unseen data . 
+Machine learning is a combination of computer science and statistics.
+
+Categories of Machine Learning: Machine learning are mainly classified into three categories, 
+but based on some application requirements and data machine learning engineer can combine the below categories.
+
+Supervised learning: Inferring a function for lable training data, label training data means machine/algorithm has to learn the relationship between independent variable(IV/Predictor/Explanatory variable) and dependent variable (DV/Target Variable/Outcome) - target variable. 
+There are two parts of supervised learning:
+Classification Problem: Classification problem means dependent variable is in categorical/discreate in nature.
+Regression Problem: Regression problem means dependent variable is in continuous in nature.
+Unsupervised learning: No label/target variable/dependent variable has been given to the learning algorithm, 
+unsupervised learn will learn by it self and find the pattern/ structure of the data. There are two categories of unsupervised learning.
+Clustering: Clustering will divide the data into multiple homogeneous group based on business requirements.
+Dimensionality reduction: Dimensionality reduction will reduce the dimension of data and consider only important features based on business need. 
+We have multiple dimensionality reduction technique PCA, LDA, T-SNE
